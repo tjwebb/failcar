@@ -6,3 +6,40 @@ failcar
 <img src="https://img.shields.io/badge/mileage-270k-blue.svg?style=flat-square">
 
 1993 honda civic dx maintenance logs, issues, and notes
+
+
+list of work done
+
+
+
+| Date | Mileage | Work Done | Cost  |
+|:-----|:--------|:----------|:------|
+2/23/2013 | 254,200 |oil change, rotate tires | $40 
+10/6/2012 | 250,400 | oil change, new fuel filter, spark plugs, wires, and distributor cap. | $120
+8/16/2012 | 249,500 | new front brake pads + rotors | $110
+mid-May 2012 | ? | replaced central and rear mufflers, plus all exhaust pipe behind catalytic converter | $165
+5/10/2012 | 248,100 | changed oil (mobil oil + fram filter) | $35
+4/23/2011 | 246,500 | inflated tires to 49 PSI | $0
+4/7/2012 | 245,600 | replaced right-rear window regulator, replaced left-rear window handle | $65 + $15
+4/1/2012 | 245,100 | oil change (mobil oil + fram HM filter), new condenser + O-rings + AC vacuum, replaced driver's door window regulator, new gas cap | $35 + 75 + 40 + 65 + 15
+3/25/2012 | 244,500 | change transmission fluid, new wipers, new radio, new front power outlet, re-wired front-left speaker | $15 + $35 + $52
+3/23/2012 | 244,500 | new AC compressor + receiver + belt + lower-left engine mount | $310 + $23
+02/19/2012 | 241,900 |oil change (mobil oil + filter) | $33
+02/13/2012 | 241,000 | seafoam in oil + gas tank (2 treatments) | $18
+01/06/2012 | 238,800 | oil change (mobil + fram filter) | $40
+11/20/2011 | 235,300 | filled in numerous rust spots with rust-oleum, cleaned throttle body and intake, replaced air filter | $15
+11/19/2011 | 235,200 | tires (4x Khumo Eco Solus LRR, $270) and 4x wheel alignment ($80) | $270 + $80
+11/14/2011 | 234,500 | oil change (mobil HM + mobil filter) | $30
+11/13/2011 | ? | new headlights -- both burnt out at once. mystery. | $40
+10/20/2011 | 232,900 | new radiator (+ coolant system flush) | $55
+09/15/2011 | 230,800 | new oil pan + gasket + oil change (mobil reg + fram filter) + seafoam in oil + replaced interior temp control | $45 + $30 + $9 + $30
+08/02/2011 | 226,100 | Passed VA state inspection, no work needed + oil change (mobil EP + fram XG filter) $15 + 40
+06/10/2011 | 225,500 | AC compressor died
+06/01/2011 | ? | oil change (mobil EP + fram XG filter), bleed brakes | $40 + $0
+04/02/2011 | ? | oil change | $44
+02/01/2011 | ? | replaced both CV axles + oil change (mobil reg + fram filter) | $240 + $30
+12/15/2010 | ? | new front-left upper&lower ball joints + oil change (mobil reg, fram filter) | $110 + $30
+10/03/2010 | ? | oil change (mobil reg, fram filter) | $30
+07/10/2010 | 197,000 | oil change (mobil EP, mobil filter), alternator belt, wipers, air filter, spark plugs, fuel filter, valve cover gasket, brake master cylinder, bleed brakes, new cup holders, floor mats, changed transmission fluid, installed front sway bar | $???
+06/15/2010 | 196,500 | purchased car | $1,000
+
