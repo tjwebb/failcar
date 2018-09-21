@@ -12,8 +12,10 @@ list of work done
 
 
 
-| Date | Mileage | Work Done | Cost  |
-|:-----|:--------|:----------|:------|
+| Date | Mileage | Work Done | Cost.................. |
+|:-----|:--------|:----------|:--------|
+9/16/2018 | 263,000 | haven't driven car in 2+ years. new headlights, cleanup oil in trunk, reinflate flat tires, new battery. parasitic draw test (passed). | $140(battery) + $70 (headlights) + $15 (oil-dri).
+mid-2016  | 263,000 | oil change, replace engine mounts, replace fuse box | $250
 2/23/2013 | 254,200 |oil change, rotate tires | $40 
 10/6/2012 | 250,400 | oil change, new fuel filter, spark plugs, wires, and distributor cap. | $120
 8/16/2012 | 249,500 | new front brake pads + rotors | $110
