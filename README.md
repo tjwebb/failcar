@@ -7,13 +7,11 @@ failcar
 
 1993 honda civic dx maintenance logs, issues, and notes
 
-
-list of work done
-
-
+![PXL_20201202_220122568](https://user-images.githubusercontent.com/1009114/168442974-81f07882-378f-48e6-a904-e39d3340757f.jpg)
 
 | Date | Mileage | Work Done | Cost.................. |
 |:-----|:--------|:----------|:--------|
+5/14/2022 | 265,500 | Re-registered for another 2 years. Works fine.
 9/16/2018 | 263,000 | haven't driven car in 2+ years. new headlights, cleanup oil in trunk, reinflate flat tires, new battery. parasitic draw test (passed). | $140(battery) + $70 (headlights) + $15 (oil-dri).
 mid-2016  | 263,000 | oil change, replace engine mounts, replace fuse box | $250
 2/23/2013 | 254,200 |oil change, rotate tires | $40 
