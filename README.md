@@ -11,7 +11,7 @@ failcar
 
 | Date | Mileage | Work Done | Cost |
 |:-----|:--------|:----------|:--------|
-5/14/2022 | 265,500 | Re-registered for another 2 years. Works fine. | $100
+5/14/2022 | 265,500 | Re-registered for another 2 years. Works fine. A bit bouncy, prly needs new front struts | $100
 9/16/2018 | 263,000 | haven't driven car in 2+ years. new headlights, cleanup oil in trunk, reinflate flat tires, new battery. parasitic draw test (passed). | $140(battery) + $70 (headlights) + $15 (oil-dri).
 mid-2016  | 263,000 | oil change, replace engine mounts, replace fuse box | $250
 2/23/2013 | 254,200 |oil change, rotate tires | $40 
