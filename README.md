@@ -16,8 +16,8 @@ failcar
 ||| wheel alignment | $110
 08/08/2022 | 266,500 | passed VA state inspection | $20
 08/07/2022 | 266,500 | 2x UCA, 2x UBJ
-||| 2x LCA, 2x LBJ 
-||| 2x wheel hub and bearing
+||| 2x LCA, 2x LCA bushings, 2x LBJ | $160 + $80 + $25
+||| 2x front wheel hub, bearing, axle nut | $62
 ||| 2x front brake rotors, calipers, pads | $230
 ||| 4x shock/strut | $168
 ||| power to manual rack+pinion swap, removed PS lines and pump | $203
