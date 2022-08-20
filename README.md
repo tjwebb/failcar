@@ -11,6 +11,39 @@ failcar
 
 | Date | Mileage | Work Done | Cost |
 |:-----|:--------|:----------|:--------|
+08/16/2022 | 266,675 | front lower brace
+||| oil pan gasket | $18
+||| wheel alignment | $110
+8/07/2022 | 266,500 | 2x UCA, 2x UBJ
+||| 2x LCA, 2x LBJ 
+||| 2x wheel hub and bearing
+||| 2x front brake rotors, calipers, pads | $230
+||| 4x shock/strut | $168
+||| power to manual rack+pinion swap, removed PS lines and pump | $203
+||| 2x tie rod end | $36
+||| 2x LCA (from Civic EX) | $90
+||| 2x brake drums $ 22
+||| new horn, headlights | $43
+||| new front lower left motor mount | $7
+||| front upper strut brace
+||| spare tire + hold down bolt | $110
+||| 2x new trunk lifts | $20
+||| new FL fender | $70
+||| hood support holder | $1
+||| antenna grommet | $9
+||| rear driver window regulator | $??? bought years ago, finally installed
+||| hood weatherstrip | $30
+||| new EX cluster, fixed speedometer | $120
+||| LED interior light | $5
+||| center console mount bracket | $25
+||| 2x Acura seats
+||| new interior carpet, floor insulation, floor mats | $200
+||| S40 A000 transmission, starter, clutch release cylinder, release bearing, shift linkage pin | $1100
+||| new air intake + filter
+||| 2x transmission mount bolts, replaced old siezed bolts | $10
+||| shift linkage pin | $8
+||| clutch, flywheel, rear main crankshaft seal | $163
+||| battery cable | $35
 5/14/2022 | 265,500 | Re-registered for another 2 years. Works fine. A bit bouncy, prly needs new front struts | $100
 9/16/2018 | 263,000 | haven't driven car in 2+ years. new headlights, cleanup oil in trunk, reinflate flat tires, new battery. parasitic draw test (passed). | $140(battery) + $70 (headlights) + $15 (oil-dri).
 mid-2016  | 263,000 | oil change, replace engine mounts, replace fuse box | $250
