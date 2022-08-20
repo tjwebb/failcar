@@ -15,7 +15,7 @@ failcar
 ||| oil pan gasket | $18
 ||| wheel alignment | $110
 08/08/2022 | 266,500 | passed VA state inspection | $20
-08/07/2022 | 266,500 | 2x UCA, 2x UBJ
+08/07/2022 | 266,500 | 2x UCA, 2x UBJ | $86
 ||| 2x LCA, 2x LCA bushings, 2x LBJ | $160 + $80 + $25
 ||| 2x front wheel hub, bearing, axle nut | $62
 ||| 2x front brake rotors, calipers, pads | $230
