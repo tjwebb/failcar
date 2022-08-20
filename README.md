@@ -1,9 +1,9 @@
 failcar
 =======
 
-<span><img src="https://img.shields.io/badge/inspection-06/21-green.svg?style=flat-square">
+<span><img src="https://img.shields.io/badge/inspection-08/22-green.svg?style=flat-square">
 <img src="https://img.shields.io/badge/horsepower-95-orange.svg?style=flat-square">
-<img src="https://img.shields.io/badge/mileage-265k-blue.svg?style=flat-square">
+<img src="https://img.shields.io/badge/mileage-267k-blue.svg?style=flat-square">
 
 1993 honda civic dx maintenance logs, issues, and notes
 
@@ -14,7 +14,8 @@ failcar
 08/16/2022 | 266,675 | front lower brace
 ||| oil pan gasket | $18
 ||| wheel alignment | $110
-8/07/2022 | 266,500 | 2x UCA, 2x UBJ
+08/08/2022 | 266,500 | passed VA state inspection | $20
+08/07/2022 | 266,500 | 2x UCA, 2x UBJ
 ||| 2x LCA, 2x LBJ 
 ||| 2x wheel hub and bearing
 ||| 2x front brake rotors, calipers, pads | $230
