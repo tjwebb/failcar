@@ -11,6 +11,7 @@ failcar
 
 | Date | Mileage | Work Done | Cost |
 |:-----|:--------|:----------|:--------|
+09/14/2022 | 266,925 | [replace O2 sensor](https://www.youtube.com/watch?v=dWGfhGq965M) | $20
 08/16/2022 | 266,675 | front lower brace
 ||| oil pan gasket | $18
 ||| wheel alignment | $110
