@@ -1,7 +1,7 @@
 failcar
 =======
 
-<span><img src="https://img.shields.io/badge/inspection-08/22-green.svg?style=flat-square">
+<span><img src="https://img.shields.io/badge/inspection-08/23-green.svg?style=flat-square">
 <img src="https://img.shields.io/badge/horsepower-95-orange.svg?style=flat-square">
 <img src="https://img.shields.io/badge/mileage-267k-blue.svg?style=flat-square">
 
@@ -11,6 +11,8 @@ failcar
 
 | Date | Mileage | Work Done | Cost |
 |:-----|:--------|:----------|:--------|
+08/25/2023 | 267,xxx | pass VA inspection | $20
+08/24/2023 | 267,xxx | tighten steering rack, fix corroded horn wires | $0
 09/14/2022 | 266,925 | [replace O2 sensor](https://www.youtube.com/watch?v=dWGfhGq965M) | $20
 08/16/2022 | 266,675 | front lower brace
 ||| oil pan gasket | $18
